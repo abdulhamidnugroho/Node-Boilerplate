@@ -1,0 +1,1 @@
+This directory is intended for frontend build version (if there is)
